@@ -23,8 +23,9 @@ I am an undergraduate student in Civil Engineering at the University of Nebraska
 ### Project 1: Evaluation of Water Systems in Nebraska 
 *An evaluation of water systems in NE (community water system, non-transient non-community water system, and transient non-community water system)*
 
-[View the code](https://github.com/shaferevyn.github.io/project1)
+[View the code]()
 
+#https://github.com/shaferevyn.github.io/project1
 ---
 
 ### Project 2: Statics Function Tool 
