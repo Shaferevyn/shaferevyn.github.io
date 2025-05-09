@@ -34,14 +34,14 @@ I am an undergraduate student in Civil Engineering at the University of Nebraska
 
 ---
 
-### Project 3: Statics Function Tool 
+### Project 3: Transporation Analysis with Graphing 
 *Transportation Analysis based on NGSIM and the NHTS*
 
 [View the code](project3)
 
 ---
 
-### Project 4: Statics Function Tool 
+### Project 4: Risk Analysis and Bias
 *Analysis of Risk using NRI Data*
 
 [View the code](project4)
