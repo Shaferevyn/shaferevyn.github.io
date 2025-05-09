@@ -25,34 +25,33 @@ I am an undergraduate student in Civil Engineering at the University of Nebraska
 
 [View the code](project1)
 
-#https://github.com/shaferevyn.github.io/project1
 ---
 
 ### Project 2: Statics Function Tool 
 *Python tool that performs unit conversions and solves basic statics problems*
 
-[View the code](https://github.com/shaferevyn.github.io/project2)
+[View the code](project2)
 
 ---
 
 ### Project 3: Statics Function Tool 
 *Transportation Analysis based on NGSIM and the NHTS*
 
-[View the code](https://github.com/shaferevyn.github.io/project3)
+[View the code](project3)
 
 ---
 
 ### Project 4: Statics Function Tool 
 *Analysis of Risk using NRI Data*
 
-[View the code](https://github.com/shaferevyn.github.io/project4)
+[View the code](project4)
 
 ---
 
 ### Project 5: Concrete Mix Design 
 *Python tool that automates a concrete mix design*
 
-[View the code](https://github.com/shaferevyn.github.io/project5)
+[View the code](project5)
 
 ---
 
